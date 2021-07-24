@@ -1,0 +1,12 @@
+{
+  "name": "kotw/wp-graphql-cors",
+  "description": "WP Graphql Cors forked from original repo.",
+  "keywords": ["plugin", "wordpress", "kotw"],
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/Kings-Of-The-Web/wp-graphql-cors/new/master",
+  "license": "",
+  "repositories": [{
+    "type": "composer",
+    "url": "https://wpackagist.org"
+  }]
+}
